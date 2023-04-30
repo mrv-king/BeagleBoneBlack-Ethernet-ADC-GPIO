@@ -14,10 +14,9 @@ This is a bare metal application, designed for BeagleBone Black. The application
 4. run "make clean" (run this command every time when you have made changes in 61850_mu_mimic.c file) 
 5. run "make"
 6. The binary file of interest is called "61850_mu_mimic.bin" (the one that should be upploaded in the BeagleBone) will be [here](https://github.com/mrv-king/BeagleBoneBlack-Ethernet-ADC-GPIO/tree/main/binary/armv7a/gcc/am335x/beaglebone/61850_mu_mimic/Release)
-
-In case if you want to make changes in the designed application:
-7. Open "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\examples\beaglebone\61850_mu_mimic\61850_mu_mimic.c" and make necessary changes.
-8. Do not forget to save document before runnig "make".
-9. Run "make clean" and then "make" from "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\build\armv7a\gcc\am335x\beaglebone\61850_mu_mimic" folder.
+* In case if you want to make changes in the designed application:
+⋅⋅7. Open "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\examples\beaglebone\61850_mu_mimic\61850_mu_mimic.c" and make necessary changes.
+⋅⋅8. Do not forget to save document before runnig "make".
+⋅⋅9. Run "make clean" and then "make" from "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\build\armv7a\gcc\am335x\beaglebone\61850_mu_mimic" folder.
 
 # How to run on Beaglebone
