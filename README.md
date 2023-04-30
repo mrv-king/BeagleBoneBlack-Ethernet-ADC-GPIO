@@ -17,8 +17,8 @@ This is a bare metal application, designed for BeagleBone Black. The application
 
 
 ⋅⋅⋅ In case if you want to make changes in the designed application:
-7. Open "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\examples\beaglebone\61850_mu_mimic\61850_mu_mimic.c" and make necessary changes.
-8. Do not forget to save document before runnig "make".
-9. Run "make clean" and then "make" from "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\build\armv7a\gcc\am335x\beaglebone\61850_mu_mimic" folder.
+a. Open "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\examples\beaglebone\61850_mu_mimic\61850_mu_mimic.c" and make necessary changes.
+b. Do not forget to save document before runnig "make".
+c. Run "make clean" and then "make" from "parent_folder\BeagleBoneBlack-Ethernet-ADC-GPIO-main\BeagleBoneBlack-Ethernet-ADC-GPIO-main\build\armv7a\gcc\am335x\beaglebone\61850_mu_mimic" folder.
 
 # How to run on Beaglebone
